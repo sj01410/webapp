@@ -1,0 +1,26 @@
+h1{
+	font-family:"¸¼Àº°íµñ";
+	color:yellow;
+	text-align: center;
+}
+
+.testclass{
+	color:blue;
+	text-align:right;
+}
+
+#yoho{
+	color:red;
+	text-align:center;
+}
+
+.style_div p{
+	color:green;
+}
+
+<style type='text/css'>
+a:Link{color:gray;}
+a:visited{color:red;}
+a:hover{color:yellow;}
+a:active{color:brown;}
+</style>
